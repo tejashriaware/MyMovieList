@@ -192,6 +192,7 @@ body {
   cursor: pointer;
   font-size: 14px;
   transition: background-color 0.3s;
+  
 }
 
 .favorite-movies button:hover {
